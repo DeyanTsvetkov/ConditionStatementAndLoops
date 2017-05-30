@@ -37,6 +37,9 @@ namespace hotel
                     break;
                 case "September":
                     studio = 60 * nights;
+
+
+
                     doubleStudio = 72 * nights;
                     suit = 82 * nights;
                     break;
