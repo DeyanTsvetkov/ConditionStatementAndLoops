@@ -1,0 +1,6 @@
+c:\users\d.tsvetkov\documents\visual studio 2015\Projects\ConditionStatementAndLoopsExercise\hotel\bin\Debug\hotel.exe.config
+c:\users\d.tsvetkov\documents\visual studio 2015\Projects\ConditionStatementAndLoopsExercise\hotel\bin\Debug\hotel.exe
+c:\users\d.tsvetkov\documents\visual studio 2015\Projects\ConditionStatementAndLoopsExercise\hotel\bin\Debug\hotel.pdb
+c:\users\d.tsvetkov\documents\visual studio 2015\Projects\ConditionStatementAndLoopsExercise\hotel\obj\Debug\hotel.csprojResolveAssemblyReference.cache
+c:\users\d.tsvetkov\documents\visual studio 2015\Projects\ConditionStatementAndLoopsExercise\hotel\obj\Debug\hotel.exe
+c:\users\d.tsvetkov\documents\visual studio 2015\Projects\ConditionStatementAndLoopsExercise\hotel\obj\Debug\hotel.pdb
